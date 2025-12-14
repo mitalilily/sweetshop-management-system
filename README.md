@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sweetshop-management-system
 A basic Sweet Shop management System project
 =======
@@ -274,35 +273,29 @@ curl -X GET http://localhost:8080/api/sweets \
 
 ### User Dashboard
 
-![User Dashboard](screenshots/user-dashboard.png)
+<img width="3723" height="1982" alt="image" src="https://github.com/user-attachments/assets/122007b8-eb31-40e6-a3f9-f6b5db7af30a" />
 _The user dashboard showing available sweets with search and filter functionality_
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img width="3734" height="2004" alt="image" src="https://github.com/user-attachments/assets/df72524d-c06c-43f6-82f7-919c1803e101" />
 _The admin dashboard with comprehensive sweet management tools_
 
 ### Login Page
 
-![Login Page](screenshots/login-page.png)
+<img width="1959" height="1885" alt="image" src="https://github.com/user-attachments/assets/cd9795ab-0101-4bcb-a7e6-e26068f77751" />
 _User login interface with clean, modern design_
 
 ### Register Page
 
-![Register Page](screenshots/register-page.png)
+<img width="1723" height="1855" alt="image" src="https://github.com/user-attachments/assets/9aefdb21-0f6c-4841-b69f-23004fce9e60" />
 _User registration form with validation_
-
-### Purchase Flow
-
-![Purchase Flow](screenshots/purchase-flow.png)
-_User purchasing a sweet with real-time inventory update_
 
 ### Admin Add Sweet
 
-![Admin Add Sweet](screenshots/admin-add-sweet.png)
+<img width="3690" height="1935" alt="image" src="https://github.com/user-attachments/assets/8033246f-87fe-40d8-84ab-3b22d00d3a61" />
 _Admin adding a new sweet to the inventory_
 
-**Note:** Screenshots should be added to the `screenshots/` directory in the project root.
 
 ## 🧪 Development Approach
 
