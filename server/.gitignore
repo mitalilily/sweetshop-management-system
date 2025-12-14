@@ -28,6 +28,8 @@ Thumbs.db
 # Logs
 *.log
 
+
 # Application
-application-local.properties
+src/main/resources/application.properties
+src/main/resources/application-*.properties
 
